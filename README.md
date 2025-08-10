@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=4C8EDA&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Swapnadeep+Mishra!;Engineering+Student+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=4C8EDA&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Swapnadeep+Mishra!;Engineering+Student;Full+Stack+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG">
 </p>
+
 
 ---
 
