@@ -1,12 +1,53 @@
-- 👋 Hi, I’m @Deep131203
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Just ping me in swapnadeepmishra3@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=4C8EDA&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Swapnadeep+Mishra!;Engineering+Student+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG">
+</p>
 
-<!---
-Deep131203/Deep131203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👨‍💻 About Me  
+- 🎓 Engineering Student (Information Technology)  
+- 💻 Passionate about **C++, DSA, and Web Development**  
+- 🌱 Currently exploring **System Design** and **CS Fundamentals**  
+- 🚀 Dream: To work in a top tech company & contribute to impactful open-source projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,python,git,github,linux,html,css,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwapnadeepMishra&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnadeepMishra&theme=radical&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnadeepMishra&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SwapnadeepMishra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ✨ Fun Fact  
+> "I turn coffee ☕ into code and ideas 💡 into reality."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwapnadeepMishra&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
