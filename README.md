@@ -38,7 +38,9 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/swapnadeep-mishra-523912260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:swapnadeepmishra3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=swapnadeepmishra3@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="https://github.com/Deep131203"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
